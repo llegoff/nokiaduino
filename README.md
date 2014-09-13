@@ -10,5 +10,5 @@ and connector to add sensors.*
 
 PCB
 ---
-![Dessus *Top*](images\top.png)
-![Dessous *Bottom*](images\bottom.png)
+![Top](images/top.png)
+![Bottom](images/bottom.png)
