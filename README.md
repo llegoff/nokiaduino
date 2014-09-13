@@ -8,6 +8,11 @@ et des connecteur pour ajouter des capteurs.
 5 keys keyboard, a microSD card slot, a DC-DC boost converter
 and connector to add sensors.*
 
+Schemas
+-------
+![sch] (images/sch.png)
+![nokiaduino.pdf] (nokiaduino.pdf)
+
 PCB
 ---
 ![Top](images/top.png)
