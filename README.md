@@ -10,8 +10,8 @@ and connector to add sensors.*
 
 Schemas
 -------
-![sch] (images/sch.png)
-![nokiaduino.pdf] (nokiaduino.pdf)
+![sch](images/sch.png)
+![nokiaduino.pdf](nokiaduino.pdf)
 
 PCB
 ---
